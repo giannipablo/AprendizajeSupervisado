@@ -1,0 +1,2 @@
+,mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_alpha,param_hidden_layer_sizes,param_solver,params,split0_test_accuracy,split1_test_accuracy,split2_test_accuracy,mean_test_accuracy,std_test_accuracy,rank_test_accuracy
+0,75.83062171936035,0.3809305389310607,0.051910956700642906,0.00741085758923908,1e-05,79,adam,"{'alpha': 1e-05, 'hidden_layer_sizes': 79, 'solver': 'adam'}",0.6664961636828645,0.664386189258312,0.6644501278772379,0.6651108269394715,0.0009799287240044759,1
